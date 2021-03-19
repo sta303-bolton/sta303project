@@ -87,10 +87,6 @@ ggsave("images/example.png", width = 7, height = 4)
 ## Informative title for section addressing a research question
 ## Informative title for section addressing a research question
 
-```{r, include = FALSE}
-library(tidyverse)
-library(lme4)
-```
 
 ## Discussion
 
